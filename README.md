@@ -1,5 +1,7 @@
 # Backend Development Learning Repository
 
+![Node](https://github.com/user-attachments/assets/6260a9f9-64f4-41aa-9f99-ac4acb3f1f8c)
+
 Welcome to my Backend Development learning journey! This repository contains all the projects, exercises, and notes that I’ve worked on while learning backend development.
 
 ## About
