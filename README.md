@@ -33,7 +33,7 @@ I'm currently learning backend development to expand my skill set as a software 
 
 ## Progress
 
-- [x] Completed basic tutorials on backend concepts.
+- [ ] Completed basic tutorials on backend concepts.
 - [ ] Work on a project using Node.js and Express.js.
 - [ ] Build a REST API with Django.
 
